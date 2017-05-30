@@ -2,19 +2,19 @@
 layout          : blocks/page-participant
 title           : ...
 type            : participant-remote
-job-title       :
-company         :
+job-title       : Security Consultant
+company         : Tata Consultancy Services
 image           :
 linkedin        :
 twiter          :
 facebook        :
 website         :
-email           :
+email           :kiit.rahul@gmail.com
 project-leader  :
 chapter-leader  :
 when-day        :
 status          : empty
-working-sessions:
+working-sessions: Threat Model
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
